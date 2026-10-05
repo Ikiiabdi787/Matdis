@@ -1,0 +1,8 @@
+total_belanja = 350000
+punya_member = True
+
+if total_belanja > 500000 or punya_member: print("Selamat! Anda mendapatkan diskon 10%.")
+
+else:
+
+print("Maaf, Anda belum memenuhi syarat diskon.")
