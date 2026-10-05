@@ -1,0 +1,7 @@
+angka = 47
+# Jika (angka AND 1) menghasilkan 1, maka ganjil. Jika 0, maka genap.
+if angka & 1:
+print(f"{angka) adalah angka GANJIL.")
+
+else:
+print(f"{angka) adalah angka GENAP.")
