@@ -1,0 +1,8 @@
+username_input = "admin"
+password_input = "rahasia123"
+
+if username_input == "admin" and password_input == "rahasia123":
+print("Login berhasil! Selamat datang.")
+
+else:
+print("Login gagal! Username atau password salah.")
