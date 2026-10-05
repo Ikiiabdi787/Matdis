@@ -1,0 +1,11 @@
+sakelar_bawah = True # ON
+sakelar_atas = False # OF
+
+# Menggunakan operator ^ (XOR)
+
+# True False = True (Lampu Menyala)
+
+if sakelar_bawah sakelar_atas: 
+print("Lampu menyala.")
+else:
+print("Lampu mati.")
