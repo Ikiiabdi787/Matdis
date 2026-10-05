@@ -1,0 +1,10 @@
+data_awal = 65
+key = 42
+
+# 1. Proses Enkripsi 
+data_terenkripsi = data_awal key 
+print(f"Data terenkripsi: {data_terenkripsi}")
+
+# 2. Proses Dekripsi (Mengembalikan data) 
+data_asli data_terenkripsi ^ key 
+print(f"Data setelah didekripsi: {data_asli}")
