@@ -1,0 +1,10 @@
+READ = 1
+WRITE = 2
+EXECUTE = 4
+# Memberikan akses Read dan Write menggunakan OR (1) akses_user = READ | WRITE # Hasilnya 3 (binner: 011)
+# Memeriksa apakah user punya akses Write menggunakan AND (&) 
+if akses_user & WRITE:
+print("User diperbolehkan menulis data (Write).")
+
+else:
+print("Akses ditolak.")
