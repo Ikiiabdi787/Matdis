@@ -14,3 +14,7 @@ Repository ini dibuat untuk tugas praktikum matematika diskrit, Repository ini j
 6. Data terenkripsi
 7. Di perbolehkan menulis data
 8. Penukaran XOR
+# Boolean
+•AND
+•OR
+•XOR
