@@ -1,0 +1,11 @@
+gaji = 12000000
+skor_bagus = False
+
+punya_jaminan = True
+
+# Menggabungkan AND dan OR menggunakan tanda kurung untuk prioritas 
+if (gaji >= 10000000 and skor_bagus) or punya_jaminan: print("Pengajuan kredit DISETUJUI.")
+
+else:
+
+print("Pengajuan kredit DITOLAK.")
