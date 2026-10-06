@@ -1,4 +1,4 @@
-# Matdis
+# Matematika Diskrit
 LAPRAK 1
 
 Nama : Muhammad Fiqri Abdi Rukmansyah 
