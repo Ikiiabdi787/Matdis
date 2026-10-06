@@ -12,14 +12,13 @@ Repository (atau repositori) adalah sistem atau tempat penyimpanan digital terpu
 
 • Maksud: Tempat mengumpulkan dan menyimpan seluruh karya intelektual dan hasil penelitian dari sivitas akademika (seperti skripsi, tesis, disertasi, jurnal, buku, dan laporan penelitian).
 
-
 • Tujuan:
 
-	• Pelestarian Karya: Menjaga agar arsip ilmiah tidak rusak atau hilang dan dapat diakses di masa depan.
+• Pelestarian Karya: Menjaga agar arsip ilmiah tidak rusak atau hilang dan dapat   diakses di masa depan.
 	
-	• Akses Terbuka (Open Access): Memudahkan mahasiswa, dosen, dan masyarakat luas untuk membaca dan memanfaatkan hasil penelitian secara digital tanpa harus datang ke perpustakaan.
+• Akses Terbuka (Open Access): Memudahkan mahasiswa, dosen, dan masyarakat luas untuk membaca dan memanfaatkan hasil penelitian secara digital tanpa harus datang ke perpustakaan.
 
-	• Meningkatkan Reputasi: Menjadi bukti produktivitas akademik lembaga untuk mendukung proses akreditasi dan visibilitas kampus di tingkat global.
+• Meningkatkan Reputasi: Menjadi bukti produktivitas akademik lembaga untuk mendukung proses akreditasi dan visibilitas kampus di tingkat global.
 	
 # Studi Kasus
 1. Dapat diskon
