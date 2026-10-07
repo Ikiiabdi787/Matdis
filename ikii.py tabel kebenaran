@@ -1,6 +1,6 @@
 # TABEL KEBENARAN
 
-SISTEM DISKON - OR
+1.SISTEM DISKON - OR
 
 A       B       A OR B       Hasil
 False   False   False        Tidak mendapat diskon
@@ -8,7 +8,7 @@ False   True    True         Mendapat diskon
 True    False   True         Mendapat diskon
 True    True    True         Mendapat diskon
 
-SISTEM LAMPU - 0R
+2.SISTEM LAMPU - 0R
 
 A       B       A XOR B       Kondisi Lampu
 False   False   False         Mati
@@ -16,7 +16,7 @@ False   True    True          Menyala
 True    False   True          Menyala
 True    True    False         Mati
 
-PENGAJUAN KREDIT - AND & XOR
+3.PENGAJUAN KREDIT - AND & XOR
 
 A      B      C      A AND B      (A AND B) OR C      Hasil
 False  False  False  False        False               Ditolak
@@ -28,7 +28,7 @@ True   False  True   False        True                Disetujui
 True   True   False  True         True                Disetujui
 True   True   True   True         True                Disetujui
 
-SISTEM LOGIN - AND
+4.SISTEM LOGIN - AND
 
 A       B       A AND B       Hasil
 False   False   False         Login gagal
@@ -36,7 +36,7 @@ False   True    False         Login gagal
 True    False   False         Login gagal
 True    True    True          Login berhasil
 
-GANJIL/GENAP - AND
+5.GANJIL/GENAP - AND
 
 A   B   A AND B
 0   0      0
@@ -44,7 +44,7 @@ A   B   A AND B
 1   0      0
 1   1      1
 
-ENKRIPSI - XOR
+6.ENKRIPSI - XOR
 
 A   B   A XOR B
 0   0      0
@@ -52,7 +52,7 @@ A   B   A XOR B
 1   0      1
 1   1      0
 
-HAM AKSES - OR & AND
+7.HAK AKSES - OR & AND
 
 A   B   A OR B
 0   0      0
@@ -60,7 +60,7 @@ A   B   A OR B
 1   0      1
 1   1      1
 
-TUKAR NILAI - XOR
+8.TUKAR NILAI - XOR
 
 A   B   A XOR B
 0   0      0
