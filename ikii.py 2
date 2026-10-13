@@ -1,11 +1,8 @@
-sakelar_bawah = True # ON
-sakelar_atas = False # OF
+sakelar_bawah = True
+sakelar_atas = True
+nyala =(sakelar_bawah^sakelar_atas)
 
-# Menggunakan operator ^ (XOR)
-
-# True False = True (Lampu Menyala)
-
-if sakelar_bawah sakelar_atas: 
-print("Lampu menyala.")
+if nyala: 
+	print("Lampu menyala")
 else:
-print("Lampu mati.")
+	print("Lampu mati")
