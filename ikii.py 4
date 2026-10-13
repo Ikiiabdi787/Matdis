@@ -1,8 +1,7 @@
-username_input = "admin"
-password_input = "rahasia123"
-
-if username_input == "admin" and password_input == "rahasia123":
-print("Login berhasil! Selamat datang.")
-
+username_aktif = True
+password_aktif = True
+masuk = (username_aktif and password_aktif)
+if masuk: 
+	print("Login berhasil!")
 else:
-print("Login gagal! Username atau password salah.")
+	print("Login gagal! Username atau password salah")
