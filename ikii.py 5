@@ -1,7 +1,7 @@
-angka = 47
-# Jika (angka AND 1) menghasilkan 1, maka ganjil. Jika 0, maka genap.
-if angka & 1:
-print(f"{angka) adalah angka GANJIL.")
-
+raket = True
+lapangan = True
+main = (raket and lapangan)
+if main: 
+	print("Letsgoo Badmintoon")
 else:
-print(f"{angka) adalah angka GENAP.")
+	print("Yahh gabisa")
