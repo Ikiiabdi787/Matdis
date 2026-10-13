@@ -1,11 +1,8 @@
-gaji = 12000000
-skor_bagus = False
-
-punya_jaminan = True
-
-# Menggabungkan AND dan OR menggunakan tanda kurung untuk prioritas 
-if (gaji >= 10000000 and skor_bagus) or punya_jaminan: print("Pengajuan kredit DISETUJUI.")
-
+ada_motor = False
+ada_bensin = False
+pergi = (ada_motor or ada_bensin)
+if pergi: 
+	print("Gass Touring")
 else:
 
-print("Pengajuan kredit DITOLAK.")
+	print("Gagal Touring")
