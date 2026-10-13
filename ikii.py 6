@@ -1,10 +1,7 @@
-data_awal = 65
-key = 42
-
-# 1. Proses Enkripsi 
-data_terenkripsi = data_awal key 
-print(f"Data terenkripsi: {data_terenkripsi}")
-
-# 2. Proses Dekripsi (Mengembalikan data) 
-data_asli data_terenkripsi ^ key 
-print(f"Data setelah didekripsi: {data_asli}")
+game_ml = False
+tim = False
+main = (game_ml^tim)
+if main: 
+	print("Letsgoo Turnamen")
+else:
+	print("Gagal Playoff")
