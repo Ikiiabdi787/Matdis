@@ -1,7 +1,8 @@
-a = 15
-b = 27
-# Proses penukaran dengan XOR
-a = a^ b
-b = a^b
-a = a^b
-print(f"Setelah ditukar -> a: {a}, b: {b}")
+sepatu = False
+teman = False
+pergi = (sepatu or teman)
+
+if pergi: 
+	print("Gass Olahraga")
+else:
+	print("Lain kali aja")
