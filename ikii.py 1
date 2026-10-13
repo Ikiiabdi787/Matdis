@@ -1,29 +1,29 @@
 # PERCOBAAN 1
-total_belanja = 350000
-punya_member = True
+pilih_bulanan = True
+pilih_tahunan = True
+paket = (pilih_bulanan ^ pilih_tahunan)
+if paket:
 
-if total_belanja > 500000 or punya_member: 
-print("Selamat! Anda mendapatkan diskon 10%.")
-
+	print("berhasil di aktivasi")
 else:
-print("Maaf, Anda belum memenuhi syarat diskon.")
+	print("gagal di aktivasi")
 
 # PERCOBAAN 2
-total_belanja = 350000
-punya_member = True
+pilih_bulanan = True
+pilih_tahunan = False
+paket = (pilih_bulanan ^ pilih_tahunan)
+if paket:
 
-if total_belanja > 500000 or punya_member: 
-print("Selamat! Anda mendapatkan diskon 10%.")
-
+	print("berhasil di aktivasi")
 else:
-print("Maaf, Anda belum memenuhi syarat diskon.")
+	print("gagal di aktivasi")
 
 # PERCOBAAN 3
-total_belanja = 350000
-punya_member = True
+pilih_bulanan = False
+pilih_tahunan = False
+paket = (pilih_bulanan ^ pilih_tahunan)
+if paket:
 
-if total_belanja > 500000 or punya_member: 
-print("Selamat! Anda mendapatkan diskon 10%.")
-
+	print("berhasil di aktivasi")
 else:
-print("Maaf, Anda belum memenuhi syarat diskon.")
+	print("gagal di aktivasi")
